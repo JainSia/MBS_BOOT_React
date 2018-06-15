@@ -1,4 +1,4 @@
-package com.yash.ssb;
+package com.yash.cmsapp;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

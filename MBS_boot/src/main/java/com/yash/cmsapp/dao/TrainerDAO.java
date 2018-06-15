@@ -1,8 +1,8 @@
 package com.yash.cmsapp.dao;
 
-import com.yash.damsapp.dto.TraineeDTO;
-import com.yash.damsapp.dto.TrainerDTO;
-import com.yash.damsapp.exception.DAOException;
+import com.yash.cmsapp.dto.TraineeDTO;
+import com.yash.cmsapp.dto.TrainerDTO;
+import com.yash.cmsapp.exception.DAOException;
 
 public interface TrainerDAO {
  

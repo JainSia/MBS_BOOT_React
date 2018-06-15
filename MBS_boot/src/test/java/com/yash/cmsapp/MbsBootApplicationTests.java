@@ -1,4 +1,4 @@
-package com.yash.ssb;
+package com.yash.cmsapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
