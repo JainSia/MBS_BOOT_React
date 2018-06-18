@@ -1,4 +1,4 @@
-package com.yash.cmsapp;
+package com.sjw.cms;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
