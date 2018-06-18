@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.yash.cmsapp.exception;
+package com.sjw.cms.exception;
 
 /**
  * @author saloni.jain
@@ -10,7 +10,7 @@ package com.yash.cmsapp.exception;
 @SuppressWarnings("serial")
 public class DAOException extends Exception {
 
-	public DAOException(String errorMessage) {
-		super(errorMessage);
+	public DAOException(String errMsg) {
+		super(errMsg);
 	}
 }
